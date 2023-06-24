@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+
+# Build output
+out
+dist
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# macOS
+build/
+Electron.app/
+electron-builder-debug.yml
+electron-builder.env
+yarn-error.log
+
+# Windows
+build/
+*.exe
+*.msi
+
+# Linux
+build/
